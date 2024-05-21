@@ -1,4 +1,6 @@
-This code helps when changing the color of the text when
+This code helps when changing the color of the text when,
+
+FULL Viedo ``` https://youtube.com/shorts/raurzPmEP0c?si=WWlj7_BfRc812rWd ```
 
 # HTML
 ```
