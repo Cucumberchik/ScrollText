@@ -3,13 +3,13 @@ This code helps when changing the color of the text when,
 FULL Viedo ``` https://youtube.com/shorts/raurzPmEP0c?si=WWlj7_BfRc812rWd ```
 
 # HTML
-```
+```html
 <div className="contant">
     <span>Hello Cucumberchik</span>
 </div>
 ```
 # CSS
-```
+```css
 .contant span {
     color: transperent;
     background-image: linear-gradient(90deg, rgba(176,91,81,1) 0%, rgba(135,42,172,1) 100%);
